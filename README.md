@@ -1,1 +1,1 @@
-# TB
+This project deals with downloading the Trail balance & chart of accounts from M3, it is a Desktop application, then it checks the account number from the Trail balance against with Chart of accounts and filters based on the account type as Asset, Liability, Equity. This report is called a consolidation report, then this report should be uploaded in the Addra website.
